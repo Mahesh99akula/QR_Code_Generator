@@ -1,4 +1,4 @@
-QR Code Generator
+# QR Code Generator
 A basic calculator GUI built using Tkinter in Python. Supports addition, subtraction, multiplication, and division.
 
 Features
